@@ -3,7 +3,7 @@ using namespace std;
 void llenar();
 void nuevo(int a[]);
 void imprimir();
-
+//comentarios
 int main() {
 int a[10];
 llenar();
